@@ -1,0 +1,28 @@
+.forecast-container {
+  margin-left: 50px;
+  padding-bottom: 200px;
+}
+
+.curforcast-div {
+  margin-top: 20px;
+}
+
+.hourtrack {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  /* overflow-y: auto; */
+  /* scrollbar-width: none; */
+}
+
+.accordion-details {
+  /* background: #e5e4e2; */
+  max-height: 300px;
+  overflow-y: auto;
+  scrollbar-width: none;
+}
+
+.progress {
+  width: 50%;
+  color: blue;
+}
